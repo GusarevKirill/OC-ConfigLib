@@ -1,0 +1,128 @@
+[03.11.2026 15:25:57] DEBUG: Tests started
+[03.11.2026 15:25:57] DEBUG: Test 3 | STARTED
+[03.11.2026 15:25:57] DEBUG: Test 3 | ALL KEYS GOT
+[03.11.2026 15:25:57] DEBUG: Test 3 | DO assert(Kirgus == Kirgus)
+[03.11.2026 15:25:57] DEBUG: Test 3 | DO assert(nil == nil)
+[03.11.2026 15:25:58] DEBUG: Test 3 | DO assert(table: 000000005ebaa400 == table: 000000003deb0ce0)
+[03.11.2026 15:25:58] DEBUG: Tests finished
+[03.11.2026 15:26:31] DEBUG: Tests started
+[03.11.2026 15:26:31] DEBUG: Test 3 | STARTED
+[03.11.2026 15:26:31] DEBUG: Test 3 | ALL KEYS GOT
+[03.11.2026 15:26:31] DEBUG: Test 3 | DO assert(Kirgus == Kirgus)
+[03.11.2026 15:26:31] DEBUG: Test 3 | DO assert(nil == nil)
+[03.11.2026 15:26:31] DEBUG: Test 3 | DO assert(table: 000000003ded5740 == table: 000000005eba9c80)
+[03.11.2026 15:26:31] DEBUG: Tests finished
+[03.11.2026 15:28:39] DEBUG: Tests started
+[03.11.2026 15:28:39] DEBUG: Test 3 | STARTED
+[03.11.2026 15:28:39] DEBUG: Test 3 | ALL KEYS GOT
+[03.11.2026 15:28:39] DEBUG: Test 3 | DO assert(Kirgus == Kirgus)
+[03.11.2026 15:28:39] DEBUG: Test 3 | DO assert(nil == nil)
+[03.11.2026 15:28:39] DEBUG: Test 3 | DO assert(table: 000000003df4f400 == table: 000000005ee552d0)
+[03.11.2026 15:28:39] DEBUG: Tests finished
+[03.11.2026 15:32:13] DEBUG: Tests started
+[03.11.2026 15:32:13] DEBUG: Test #1 PASSED
+[03.11.2026 15:32:13] DEBUG: Test #2 PASSED
+[03.11.2026 15:32:13] DEBUG: Test 3 | STARTED
+[03.11.2026 15:32:13] DEBUG: Test 3 | ALL KEYS GOT
+[03.11.2026 15:32:13] DEBUG: Test 3 | DO assert(Kirgus == Kirgus)
+[03.11.2026 15:32:13] DEBUG: Test 3 | DO assert(nil == nil)
+[03.11.2026 15:32:13] DEBUG: Test 3 | DO assert(table: 000000005aacfc40 == table: 000000005aaf9b10)
+[03.11.2026 15:32:13] DEBUG: Test #3 FAILED | /home/stp/test/configlib-tests/tables.lua:97: attempt to call a nil value (field 'isEqual')
+[03.11.2026 15:32:13] DEBUG: Tests finished
+[03.11.2026 15:32:50] DEBUG: Tests started
+[03.11.2026 15:32:50] DEBUG: Test #1 PASSED
+[03.11.2026 15:32:50] DEBUG: Test #2 PASSED
+[03.11.2026 15:32:50] DEBUG: Test 3 | STARTED
+[03.11.2026 15:32:50] DEBUG: Test 3 | ALL KEYS GOT
+[03.11.2026 15:32:50] DEBUG: Test 3 | DO assert(Kirgus == Kirgus)
+[03.11.2026 15:32:50] DEBUG: Test 3 | DO assert(nil == nil)
+[03.11.2026 15:32:50] DEBUG: Test 3 | DO assert(table: 000000005ec2f0f0 == table: 000000005ee4c310)
+[03.11.2026 15:32:50] DEBUG: CALLED Assert.equal(table: 000000005ec2f0f0, table: 000000005ee4c310)
+[03.11.2026 15:32:50] DEBUG: Test 3 | FINISHED AND PASSED
+[03.11.2026 15:32:50] DEBUG: Test #3 PASSED
+[03.11.2026 15:32:50] DEBUG: Tests finished
+[03.11.2026 15:34:22] DEBUG: Tests started
+[03.11.2026 15:34:22] DEBUG: Test #1 PASSED
+[03.11.2026 15:34:22] DEBUG: Test #2 PASSED
+[03.11.2026 15:34:22] DEBUG: Test 3 | STARTED
+[03.11.2026 15:34:22] DEBUG: Test 3 | ALL KEYS GOT
+[03.11.2026 15:34:22] DEBUG: Test 3 | DO assert(Kirgus == Kirgus)
+[03.11.2026 15:34:22] DEBUG: Test 3 | DO assert(nil == nil)
+[03.11.2026 15:34:22] DEBUG: Test 3 | DO assert(table: 000000005ee51650 == table: 000000005ab429c0)
+[03.11.2026 15:34:22] DEBUG: CALLED Assert.equal(table: 000000005ee51650, table: 000000005ab429c0)
+[03.11.2026 15:34:22] DEBUG: Test #3 FAILED | /home/stp/test/configlib-tests/tables.lua:27: bash
+[03.11.2026 15:34:22] DEBUG: Tests finished
+[03.11.2026 15:34:40] DEBUG: Tests started
+[03.11.2026 15:34:40] DEBUG: Test #1 PASSED
+[03.11.2026 15:34:41] DEBUG: Test #2 PASSED
+[03.11.2026 15:34:41] DEBUG: Test 3 | STARTED
+[03.11.2026 15:34:41] DEBUG: Test 3 | ALL KEYS GOT
+[03.11.2026 15:34:41] DEBUG: Test 3 | DO assert(Kirgus == Kirgus)
+[03.11.2026 15:34:41] DEBUG: Test 3 | DO assert(nil == nil)
+[03.11.2026 15:34:41] DEBUG: Test 3 | DO assert(table: 000000005eb98ea0 == table: 000000005eeb2ee0)
+[03.11.2026 15:34:41] DEBUG: CALLED Assert.equal(table: 000000005eb98ea0, table: 000000005eeb2ee0)
+[03.11.2026 15:34:41] DEBUG: Test 3 | FINISHED AND PASSED
+[03.11.2026 15:34:41] DEBUG: Test #3 PASSED
+[03.11.2026 15:34:41] DEBUG: Tests finished
+[03.11.2026 15:34:55] DEBUG: Tests started
+[03.11.2026 15:34:55] DEBUG: Test #1 PASSED
+[03.11.2026 15:34:55] DEBUG: Test #2 PASSED
+[03.11.2026 15:34:55] DEBUG: Test 3 | STARTED
+[03.11.2026 15:34:55] DEBUG: Test 3 | ALL KEYS GOT
+[03.11.2026 15:34:55] DEBUG: Test 3 | DO assert(Kirgus == Kirgus)
+[03.11.2026 15:34:55] DEBUG: Test 3 | DO assert(nil == nil)
+[03.11.2026 15:34:55] DEBUG: Test 3 | DO assert(table: 000000005ee4b990 == table: 000000005aac1ee0)
+[03.11.2026 15:34:55] DEBUG: CALLED Assert.equal(table: 000000005ee4b990, table: 000000005aac1ee0)
+[03.11.2026 15:34:55] DEBUG: Test 3 | FINISHED AND PASSED
+[03.11.2026 15:34:55] DEBUG: Test #3 PASSED
+[03.11.2026 15:34:55] DEBUG: Tests finished
+[03.11.2026 15:35:04] DEBUG: Tests started
+[03.11.2026 15:35:04] DEBUG: Test #1 PASSED
+[03.11.2026 15:35:04] DEBUG: Test #2 PASSED
+[03.11.2026 15:35:05] DEBUG: Test 3 | STARTED
+[03.11.2026 15:35:05] DEBUG: Test 3 | ALL KEYS GOT
+[03.11.2026 15:35:05] DEBUG: Test 3 | DO assert(Kirgus == Kirgus)
+[03.11.2026 15:35:05] DEBUG: Test 3 | DO assert(true == nil)
+[03.11.2026 15:35:05] DEBUG: Test #3 FAILED | /home/stp/test/configlib-tests/tables.lua:93: assertion failed!
+[03.11.2026 15:35:05] DEBUG: Tests finished
+[03.11.2026 15:35:12] DEBUG: Tests started
+[03.11.2026 15:35:12] DEBUG: Test #1 PASSED
+[03.11.2026 15:35:12] DEBUG: Test #2 PASSED
+[03.11.2026 15:35:13] DEBUG: Test 3 | STARTED
+[03.11.2026 15:35:13] DEBUG: Test 3 | ALL KEYS GOT
+[03.11.2026 15:35:13] DEBUG: Test 3 | DO assert(Kirgus == Kirgus)
+[03.11.2026 15:35:13] DEBUG: Test 3 | DO assert(false == nil)
+[03.11.2026 15:35:13] DEBUG: Test #3 FAILED | /home/stp/test/configlib-tests/tables.lua:93: assertion failed!
+[03.11.2026 15:35:13] DEBUG: Tests finished
+[03.11.2026 15:35:18] DEBUG: Tests started
+[03.11.2026 15:35:18] DEBUG: Test #1 PASSED
+[03.11.2026 15:35:18] DEBUG: Test #2 PASSED
+[03.11.2026 15:35:18] DEBUG: Test 3 | STARTED
+[03.11.2026 15:35:19] DEBUG: Test 3 | ALL KEYS GOT
+[03.11.2026 15:35:19] DEBUG: Test 3 | DO assert(Kirgus == Kirgus)
+[03.11.2026 15:35:19] DEBUG: Test 3 | DO assert(nil == nil)
+[03.11.2026 15:35:19] DEBUG: Test 3 | DO assert(table: 000000003df629b0 == table: 000000005ab496f0)
+[03.11.2026 15:35:19] DEBUG: CALLED Assert.equal(table: 000000003df629b0, table: 000000005ab496f0)
+[03.11.2026 15:35:19] DEBUG: Test 3 | FINISHED AND PASSED
+[03.11.2026 15:35:19] DEBUG: Test #3 PASSED
+[03.11.2026 15:35:19] DEBUG: Tests finished
+[03.11.2026 15:35:26] DEBUG: Tests started
+[03.11.2026 15:35:26] DEBUG: Test #1 PASSED
+[03.11.2026 15:35:26] DEBUG: Test #2 PASSED
+[03.11.2026 15:35:27] DEBUG: Test 3 | STARTED
+[03.11.2026 15:35:27] DEBUG: Test 3 | ALL KEYS GOT
+[03.11.2026 15:35:27] DEBUG: Test 3 | DO assert(Kirgusf == Kirgus)
+[03.11.2026 15:35:27] DEBUG: Test #3 FAILED | /home/stp/test/configlib-tests/tables.lua:91: assertion failed!
+[03.11.2026 15:35:27] DEBUG: Tests finished
+[03.11.2026 15:35:33] DEBUG: Tests started
+[03.11.2026 15:35:33] DEBUG: Test #1 PASSED
+[03.11.2026 15:35:33] DEBUG: Test #2 PASSED
+[03.11.2026 15:35:33] DEBUG: Test 3 | STARTED
+[03.11.2026 15:35:33] DEBUG: Test 3 | ALL KEYS GOT
+[03.11.2026 15:35:33] DEBUG: Test 3 | DO assert(Kirgus == Kirgus)
+[03.11.2026 15:35:33] DEBUG: Test 3 | DO assert(nil == nil)
+[03.11.2026 15:35:33] DEBUG: Test 3 | DO assert(table: 000000005eb913a0 == table: 000000005ec2f8b0)
+[03.11.2026 15:35:33] DEBUG: CALLED Assert.equal(table: 000000005eb913a0, table: 000000005ec2f8b0)
+[03.11.2026 15:35:33] DEBUG: Test 3 | FINISHED AND PASSED
+[03.11.2026 15:35:33] DEBUG: Test #3 PASSED
+[03.11.2026 15:35:33] DEBUG: Tests finished
